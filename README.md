@@ -50,6 +50,8 @@ This prevents simulated data from being mistaken for observed prices and reduces
 
 ## Suggested next steps
 
+The staged product direction and definition of done are explained in [`docs/PRODUCT_ROADMAP.md`](docs/PRODUCT_ROADMAP.md).
+
 1. Wrap the prototype in a complete standalone page.
 2. Define typed market and observation models.
 3. Connect read-only normalized data from `eu-grid-data-connectors`.
